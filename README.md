@@ -1,2 +1,3 @@
 # dotfiles
-where
+This is where i am picky
+# Im bad
