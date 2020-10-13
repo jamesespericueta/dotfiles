@@ -1,0 +1,467 @@
+[
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wno-deprecated-declarations -O2 -std=c++14 -o CMakeFiles/i3ipc++.dir/src/ipc.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/src/ipc.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/src/ipc.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -std=c++11 -Wall -Wextra -Wno-unused-parameter -Wno-deprecated-declarations -O2 -std=c++14 -o CMakeFiles/i3ipc++.dir/src/ipc-util.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/src/ipc-util.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/src/ipc-util.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -std=c++11 -Wall -Wconversion -Wshadow -Wextra -Werror=conversion -pedantic -Werror=strict-aliasing -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/jsoncpp_lib_static.dir/json_reader.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/json_reader.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/json_reader.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -std=c++11 -Wall -Wconversion -Wshadow -Wextra -Werror=conversion -pedantic -Werror=strict-aliasing -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/jsoncpp_lib_static.dir/json_value.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/json_value.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/json_value.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -std=c++11 -Wall -Wconversion -Wshadow -Wextra -Werror=conversion -pedantic -Werror=strict-aliasing -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/jsoncpp_lib_static.dir/json_writer.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/json_writer.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/json_writer.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/jsontestrunner",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -std=c++11 -Wall -Wconversion -Wshadow -Wextra -Werror=conversion -pedantic -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/jsontestrunner_exe.dir/main.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/jsontestrunner/main.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/jsontestrunner/main.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/test_lib_json",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -std=c++11 -Wall -Wconversion -Wshadow -Wextra -Werror=conversion -pedantic -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/jsoncpp_test.dir/jsontest.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/test_lib_json/jsontest.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/test_lib_json/jsontest.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/test_lib_json",
+  "command": "/usr/bin/g++   -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -std=c++11 -Wall -Wconversion -Wshadow -Wextra -Werror=conversion -pedantic -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/jsoncpp_test.dir/main.cpp.o -c /home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/test_lib_json/main.cpp",
+  "file": "/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/test_lib_json/main.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/polybar-msg.dir/ipc.cpp.o -c /home/james/src/polybar/src/ipc.cpp",
+  "file": "/home/james/src/polybar/src/ipc.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/polybar-msg.dir/utils/env.cpp.o -c /home/james/src/polybar/src/utils/env.cpp",
+  "file": "/home/james/src/polybar/src/utils/env.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/polybar-msg.dir/utils/file.cpp.o -c /home/james/src/polybar/src/utils/file.cpp",
+  "file": "/home/james/src/polybar/src/utils/file.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -std=c++14 -o CMakeFiles/polybar-msg.dir/utils/string.cpp.o -c /home/james/src/polybar/src/utils/string.cpp",
+  "file": "/home/james/src/polybar/src/utils/string.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/polybar.dir/main.cpp.o -c /home/james/src/polybar/src/main.cpp",
+  "file": "/home/james/src/polybar/src/main.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/adapters/alsa/control.cpp.o -c /home/james/src/polybar/src/adapters/alsa/control.cpp",
+  "file": "/home/james/src/polybar/src/adapters/alsa/control.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/adapters/alsa/mixer.cpp.o -c /home/james/src/polybar/src/adapters/alsa/mixer.cpp",
+  "file": "/home/james/src/polybar/src/adapters/alsa/mixer.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/adapters/mpd.cpp.o -c /home/james/src/polybar/src/adapters/mpd.cpp",
+  "file": "/home/james/src/polybar/src/adapters/mpd.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/adapters/net.cpp.o -c /home/james/src/polybar/src/adapters/net.cpp",
+  "file": "/home/james/src/polybar/src/adapters/net.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/adapters/net_iw.cpp.o -c /home/james/src/polybar/src/adapters/net_iw.cpp",
+  "file": "/home/james/src/polybar/src/adapters/net_iw.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/adapters/pulseaudio.cpp.o -c /home/james/src/polybar/src/adapters/pulseaudio.cpp",
+  "file": "/home/james/src/polybar/src/adapters/pulseaudio.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/cairo/utils.cpp.o -c /home/james/src/polybar/src/cairo/utils.cpp",
+  "file": "/home/james/src/polybar/src/cairo/utils.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/bar.cpp.o -c /home/james/src/polybar/src/components/bar.cpp",
+  "file": "/home/james/src/polybar/src/components/bar.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/builder.cpp.o -c /home/james/src/polybar/src/components/builder.cpp",
+  "file": "/home/james/src/polybar/src/components/builder.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/command_line.cpp.o -c /home/james/src/polybar/src/components/command_line.cpp",
+  "file": "/home/james/src/polybar/src/components/command_line.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/config.cpp.o -c /home/james/src/polybar/src/components/config.cpp",
+  "file": "/home/james/src/polybar/src/components/config.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/controller.cpp.o -c /home/james/src/polybar/src/components/controller.cpp",
+  "file": "/home/james/src/polybar/src/components/controller.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/ipc.cpp.o -c /home/james/src/polybar/src/components/ipc.cpp",
+  "file": "/home/james/src/polybar/src/components/ipc.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/logger.cpp.o -c /home/james/src/polybar/src/components/logger.cpp",
+  "file": "/home/james/src/polybar/src/components/logger.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/parser.cpp.o -c /home/james/src/polybar/src/components/parser.cpp",
+  "file": "/home/james/src/polybar/src/components/parser.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/renderer.cpp.o -c /home/james/src/polybar/src/components/renderer.cpp",
+  "file": "/home/james/src/polybar/src/components/renderer.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/screen.cpp.o -c /home/james/src/polybar/src/components/screen.cpp",
+  "file": "/home/james/src/polybar/src/components/screen.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/components/taskqueue.cpp.o -c /home/james/src/polybar/src/components/taskqueue.cpp",
+  "file": "/home/james/src/polybar/src/components/taskqueue.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/drawtypes/animation.cpp.o -c /home/james/src/polybar/src/drawtypes/animation.cpp",
+  "file": "/home/james/src/polybar/src/drawtypes/animation.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/drawtypes/iconset.cpp.o -c /home/james/src/polybar/src/drawtypes/iconset.cpp",
+  "file": "/home/james/src/polybar/src/drawtypes/iconset.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/drawtypes/label.cpp.o -c /home/james/src/polybar/src/drawtypes/label.cpp",
+  "file": "/home/james/src/polybar/src/drawtypes/label.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/drawtypes/progressbar.cpp.o -c /home/james/src/polybar/src/drawtypes/progressbar.cpp",
+  "file": "/home/james/src/polybar/src/drawtypes/progressbar.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/drawtypes/ramp.cpp.o -c /home/james/src/polybar/src/drawtypes/ramp.cpp",
+  "file": "/home/james/src/polybar/src/drawtypes/ramp.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/events/signal_emitter.cpp.o -c /home/james/src/polybar/src/events/signal_emitter.cpp",
+  "file": "/home/james/src/polybar/src/events/signal_emitter.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/events/signal_receiver.cpp.o -c /home/james/src/polybar/src/events/signal_receiver.cpp",
+  "file": "/home/james/src/polybar/src/events/signal_receiver.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/alsa.cpp.o -c /home/james/src/polybar/src/modules/alsa.cpp",
+  "file": "/home/james/src/polybar/src/modules/alsa.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/backlight.cpp.o -c /home/james/src/polybar/src/modules/backlight.cpp",
+  "file": "/home/james/src/polybar/src/modules/backlight.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/battery.cpp.o -c /home/james/src/polybar/src/modules/battery.cpp",
+  "file": "/home/james/src/polybar/src/modules/battery.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/bspwm.cpp.o -c /home/james/src/polybar/src/modules/bspwm.cpp",
+  "file": "/home/james/src/polybar/src/modules/bspwm.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/counter.cpp.o -c /home/james/src/polybar/src/modules/counter.cpp",
+  "file": "/home/james/src/polybar/src/modules/counter.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/cpu.cpp.o -c /home/james/src/polybar/src/modules/cpu.cpp",
+  "file": "/home/james/src/polybar/src/modules/cpu.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/date.cpp.o -c /home/james/src/polybar/src/modules/date.cpp",
+  "file": "/home/james/src/polybar/src/modules/date.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/fs.cpp.o -c /home/james/src/polybar/src/modules/fs.cpp",
+  "file": "/home/james/src/polybar/src/modules/fs.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/github.cpp.o -c /home/james/src/polybar/src/modules/github.cpp",
+  "file": "/home/james/src/polybar/src/modules/github.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/i3.cpp.o -c /home/james/src/polybar/src/modules/i3.cpp",
+  "file": "/home/james/src/polybar/src/modules/i3.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/ipc.cpp.o -c /home/james/src/polybar/src/modules/ipc.cpp",
+  "file": "/home/james/src/polybar/src/modules/ipc.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/memory.cpp.o -c /home/james/src/polybar/src/modules/memory.cpp",
+  "file": "/home/james/src/polybar/src/modules/memory.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/menu.cpp.o -c /home/james/src/polybar/src/modules/menu.cpp",
+  "file": "/home/james/src/polybar/src/modules/menu.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/meta/base.cpp.o -c /home/james/src/polybar/src/modules/meta/base.cpp",
+  "file": "/home/james/src/polybar/src/modules/meta/base.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/mpd.cpp.o -c /home/james/src/polybar/src/modules/mpd.cpp",
+  "file": "/home/james/src/polybar/src/modules/mpd.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/network.cpp.o -c /home/james/src/polybar/src/modules/network.cpp",
+  "file": "/home/james/src/polybar/src/modules/network.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/pulseaudio.cpp.o -c /home/james/src/polybar/src/modules/pulseaudio.cpp",
+  "file": "/home/james/src/polybar/src/modules/pulseaudio.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/script.cpp.o -c /home/james/src/polybar/src/modules/script.cpp",
+  "file": "/home/james/src/polybar/src/modules/script.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/systray.cpp.o -c /home/james/src/polybar/src/modules/systray.cpp",
+  "file": "/home/james/src/polybar/src/modules/systray.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/temperature.cpp.o -c /home/james/src/polybar/src/modules/temperature.cpp",
+  "file": "/home/james/src/polybar/src/modules/temperature.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/text.cpp.o -c /home/james/src/polybar/src/modules/text.cpp",
+  "file": "/home/james/src/polybar/src/modules/text.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/xbacklight.cpp.o -c /home/james/src/polybar/src/modules/xbacklight.cpp",
+  "file": "/home/james/src/polybar/src/modules/xbacklight.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/xkeyboard.cpp.o -c /home/james/src/polybar/src/modules/xkeyboard.cpp",
+  "file": "/home/james/src/polybar/src/modules/xkeyboard.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/xwindow.cpp.o -c /home/james/src/polybar/src/modules/xwindow.cpp",
+  "file": "/home/james/src/polybar/src/modules/xwindow.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/modules/xworkspaces.cpp.o -c /home/james/src/polybar/src/modules/xworkspaces.cpp",
+  "file": "/home/james/src/polybar/src/modules/xworkspaces.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/bspwm.cpp.o -c /home/james/src/polybar/src/utils/bspwm.cpp",
+  "file": "/home/james/src/polybar/src/utils/bspwm.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/command.cpp.o -c /home/james/src/polybar/src/utils/command.cpp",
+  "file": "/home/james/src/polybar/src/utils/command.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/concurrency.cpp.o -c /home/james/src/polybar/src/utils/concurrency.cpp",
+  "file": "/home/james/src/polybar/src/utils/concurrency.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/env.cpp.o -c /home/james/src/polybar/src/utils/env.cpp",
+  "file": "/home/james/src/polybar/src/utils/env.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/factory.cpp.o -c /home/james/src/polybar/src/utils/factory.cpp",
+  "file": "/home/james/src/polybar/src/utils/factory.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/file.cpp.o -c /home/james/src/polybar/src/utils/file.cpp",
+  "file": "/home/james/src/polybar/src/utils/file.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/http.cpp.o -c /home/james/src/polybar/src/utils/http.cpp",
+  "file": "/home/james/src/polybar/src/utils/http.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/i3.cpp.o -c /home/james/src/polybar/src/utils/i3.cpp",
+  "file": "/home/james/src/polybar/src/utils/i3.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/inotify.cpp.o -c /home/james/src/polybar/src/utils/inotify.cpp",
+  "file": "/home/james/src/polybar/src/utils/inotify.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/io.cpp.o -c /home/james/src/polybar/src/utils/io.cpp",
+  "file": "/home/james/src/polybar/src/utils/io.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/process.cpp.o -c /home/james/src/polybar/src/utils/process.cpp",
+  "file": "/home/james/src/polybar/src/utils/process.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/socket.cpp.o -c /home/james/src/polybar/src/utils/socket.cpp",
+  "file": "/home/james/src/polybar/src/utils/socket.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/string.cpp.o -c /home/james/src/polybar/src/utils/string.cpp",
+  "file": "/home/james/src/polybar/src/utils/string.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/utils/throttle.cpp.o -c /home/james/src/polybar/src/utils/throttle.cpp",
+  "file": "/home/james/src/polybar/src/utils/throttle.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/atoms.cpp.o -c /home/james/src/polybar/src/x11/atoms.cpp",
+  "file": "/home/james/src/polybar/src/x11/atoms.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/background_manager.cpp.o -c /home/james/src/polybar/src/x11/background_manager.cpp",
+  "file": "/home/james/src/polybar/src/x11/background_manager.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/connection.cpp.o -c /home/james/src/polybar/src/x11/connection.cpp",
+  "file": "/home/james/src/polybar/src/x11/connection.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/cursor.cpp.o -c /home/james/src/polybar/src/x11/cursor.cpp",
+  "file": "/home/james/src/polybar/src/x11/cursor.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/ewmh.cpp.o -c /home/james/src/polybar/src/x11/ewmh.cpp",
+  "file": "/home/james/src/polybar/src/x11/ewmh.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/extensions/composite.cpp.o -c /home/james/src/polybar/src/x11/extensions/composite.cpp",
+  "file": "/home/james/src/polybar/src/x11/extensions/composite.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/extensions/randr.cpp.o -c /home/james/src/polybar/src/x11/extensions/randr.cpp",
+  "file": "/home/james/src/polybar/src/x11/extensions/randr.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/extensions/xkb.cpp.o -c /home/james/src/polybar/src/x11/extensions/xkb.cpp",
+  "file": "/home/james/src/polybar/src/x11/extensions/xkb.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/icccm.cpp.o -c /home/james/src/polybar/src/x11/icccm.cpp",
+  "file": "/home/james/src/polybar/src/x11/icccm.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/registry.cpp.o -c /home/james/src/polybar/src/x11/registry.cpp",
+  "file": "/home/james/src/polybar/src/x11/registry.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/tray_client.cpp.o -c /home/james/src/polybar/src/x11/tray_client.cpp",
+  "file": "/home/james/src/polybar/src/x11/tray_client.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/tray_manager.cpp.o -c /home/james/src/polybar/src/x11/tray_manager.cpp",
+  "file": "/home/james/src/polybar/src/x11/tray_manager.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/window.cpp.o -c /home/james/src/polybar/src/x11/window.cpp",
+  "file": "/home/james/src/polybar/src/x11/window.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/winspec.cpp.o -c /home/james/src/polybar/src/x11/winspec.cpp",
+  "file": "/home/james/src/polybar/src/x11/winspec.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/xembed.cpp.o -c /home/james/src/polybar/src/x11/xembed.cpp",
+  "file": "/home/james/src/polybar/src/x11/xembed.cpp"
+},
+{
+  "directory": "/home/james/src/polybar/build/bin",
+  "command": "/usr/bin/g++   -I/usr/include/cairo -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/home/james/src/polybar/include -I/home/james/src/polybar/build/generated-sources -I/home/james/src/polybar/lib/concurrentqueue/include -I/home/james/src/polybar/lib/xpp/include -I/home/james/src/polybar/lib/i3ipcpp/3rd/auss/include -I/home/james/src/polybar/lib/i3ipcpp/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/include -I/home/james/src/polybar/lib/i3ipcpp/libs/jsoncpp-1.7.7/src/lib_json/../../include   -Wall -Wextra -Wpedantic -O3 -DNDEBUG   -pthread -std=c++14 -o CMakeFiles/poly.dir/x11/xresources.cpp.o -c /home/james/src/polybar/src/x11/xresources.cpp",
+  "file": "/home/james/src/polybar/src/x11/xresources.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -Wextra -Wpedantic -std=c++11 -Wall -Wconversion -Wshadow -Wextra -Werror=conversion -pedantic -O3 -DNDEBUG  -rdynamic CMakeFiles/jsoncpp_test.dir/jsontest.cpp.o CMakeFiles/jsoncpp_test.dir/main.cpp.o  -o jsoncpp_test  ../lib_json/libjsoncpp.a 
